@@ -1,4 +1,5 @@
 Hello Pranav!
 You are doing baby steps on GIT with CLI.
-Added in between lines ... lets add another commit.
+Added in between lines ... lets add another commit. hurrah!
 Enjoy!!!
+Life sucks, if you look at that way.
